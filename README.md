@@ -1,4 +1,4 @@
-Based on your codebase and models, here is the database design (ER diagram description):
+
 
 **Entities and Relationships:**
 
